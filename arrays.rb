@@ -19,3 +19,6 @@ friends.unshift("Jared")
 becca = friends[2]
 #"Jared" has been added at index 0
 jared = friends[0]
+#Calling the method insert on an array adds a new element at a specified index position
+numbers.insert(2, 42)
+#The numbers array is now ][1, 2, 42, 3, 4, 5]
