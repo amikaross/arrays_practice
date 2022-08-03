@@ -1,0 +1,4 @@
+# Self Evaluation
+* I feel fairly confident as arrays are a familiar concept. The ruby syntax and methods are new but so far this has been fun to explore since I already had a pretty good foundation to start on top of.
+* I think more practice with the various methods (and time spent memorizing a list of the most useful ones) would be really helpful for me. I want to also spend time just reading through the docs so that somewhere in a corner of my brain is the info that something might be possible even if I need to go look it up again.
+* I'm curious about arrays of multiple variable types. The lesson stated explicitly that this would not be useful in the real world.. but I feel like there's got to be some real-world application for this. I want to see examples of arrays being used in actual applications I guess.
